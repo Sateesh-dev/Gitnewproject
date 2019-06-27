@@ -1,0 +1,5 @@
+doni 150
+kohli 175
+Rohit 200
+Yuvaraj 250
+
