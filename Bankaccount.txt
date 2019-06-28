@@ -3,3 +3,19 @@ cash
 deposit
 credits
 
+Loans:
+
+Personal Loan
+Business Loan
+Car Loan
+Vehical Loan
+
+Deposits:
+
+Fixed Deposit
+Recuring Deposit
+
+Mortage Loans
+saving account
+current account
+
